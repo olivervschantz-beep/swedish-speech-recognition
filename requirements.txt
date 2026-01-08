@@ -1,0 +1,14 @@
+# Core AI/ML
+torch
+torchaudio
+
+# UI
+streamlit
+
+# Audio Recording & File Handling
+sounddevice
+soundfile
+librosa
+
+# General utilities
+numpy==1.26.4
